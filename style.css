@@ -1,0 +1,60 @@
+body {
+    background: black;
+    width: 467px;
+    height: 600px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+p {
+    color:black;
+    margin: 0%;
+    text-align: justify;
+}
+.photofeed{
+    background: white;
+    color: black;
+}
+.titulo1{
+    margin: 11px -9px 5px 5px;;
+    display: flex;
+    font-weight: bold
+
+}
+.uno{
+    position: relative;
+    left: 64%;
+    color: gray;
+}
+.fit-picture{
+    max-width: 100%;
+}
+.descripcion1{
+    margin: 5px 10px 5px 10px;
+}
+.titulo2{
+    margin: 11px 5px 5px 5px;
+    display: flex;
+    font-weight: bold
+}
+.dos{
+    position: relative;
+    left: 57%;
+    color: gray;
+}
+.descripcion2{
+    margin: 5px 10px 5px 10px;
+}
+.titulo3{
+    margin: 11px 0px 5px 5px;
+    display: flex;
+    font-weight: bold
+}
+.tres{
+    position: relative;
+    left: 64%;
+    color: gray;
+}
+.descripcion3{
+    margin: 5px 10px 5px 10px;
+}
+ 
